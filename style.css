@@ -1,0 +1,76 @@
+div.container {
+    height: 10em;
+    position: relative;
+}
+
+div.container h1 {
+    margin: 0;
+    font-family: Arial, Geneva, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.container {
+    position: relative;
+    margin-top: 300px;
+}
+
+ul {
+    display: block;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    border-radius: 100px;
+    transform: scale(0.5);
+    transition: all 1000ms ease-in-out;
+    left: 50%;
+    margin-right: -50%;
+}
+
+a {
+    color: black !important;
+    text-decoration: none;
+}
+
+h1 {
+    color: black;
+    font-size: 10em;
+}
+
+#bg {
+    background-color: white;
+    width: 100% !important;
+    height: 100% !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+}
+
+/** {*/
+    /*border: 1px pink solid;*/
+/*}*/
+
+#main-image {
+    width: 310px;
+    position: absolute;
+    top: -70px;
+    left: -80px;
+}
+
+.ui-tooltip {
+    font-family: Arial;
+    font-size: 10px;
+}
