@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed6a93a6-f77e-4de4-a025-424b0741b045" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m.html" afterPath="$PROJECT_DIR$/m.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile.css" afterPath="$PROJECT_DIR$/mobile.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolio2.iws" />
@@ -48,21 +45,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="m.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="m.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/m.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6">
-              <caret line="24" column="77" selection-start-line="24" selection-start-column="77" selection-end-line="24" selection-end-column="77" />
+            <state vertical-scroll-proportion="-18.125">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mobile.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mobile.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mobile.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.7245409">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -86,9 +83,9 @@
         <option value="$PROJECT_DIR$/script.js" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/mobile.css" />
         <option value="$PROJECT_DIR$/mobile.js" />
         <option value="$PROJECT_DIR$/m.html" />
+        <option value="$PROJECT_DIR$/mobile.css" />
       </list>
     </option>
   </component>
@@ -218,7 +215,25 @@
       <option name="project" value="LOCAL" />
       <updated>1448484349090</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="made mobile site">
+      <created>1448492808767</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1448492808767</updated>
+    </task>
+    <task id="LOCAL-00005" summary="improved centerting of headings">
+      <created>1448493936454</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1448493936454</updated>
+    </task>
+    <task id="LOCAL-00006" summary="improved spacing in descs/titles">
+      <created>1448494080650</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1448494080650</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -264,7 +279,9 @@
     <MESSAGE value="webstorm auto generated xml file" />
     <MESSAGE value="sharpened layout, functionality" />
     <MESSAGE value="made mobile site" />
-    <option name="LAST_COMMIT_MESSAGE" value="made mobile site" />
+    <MESSAGE value="improved centerting of headings" />
+    <MESSAGE value="improved spacing in descs/titles" />
+    <option name="LAST_COMMIT_MESSAGE" value="improved spacing in descs/titles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -313,14 +330,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mobile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -339,8 +348,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/m.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6">
-          <caret line="24" column="77" selection-start-line="24" selection-start-column="77" selection-end-line="24" selection-end-column="77" />
+        <state vertical-scroll-proportion="-18.125">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7245409">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
           <folding />
         </state>
       </provider>

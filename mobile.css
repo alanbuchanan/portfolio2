@@ -22,17 +22,24 @@ h1 {
 }
 
 .md-2-line div {
-    padding: 50px;
+    padding: 80px;
 }
 
 img {
     margin-left: 20px;
 }
 
-.md-list-item-text h1 {
-    margin-bottom: 1px;
+.md-list-item-text {
+    padding-top: 35px !important;
 }
 
-.md-headline {
+.md-list-item-text h1 {
+    margin-bottom: 1px;
     margin-top: 1px;
+}
+
+.md-list-item-text .md-display-1 {
+    margin-top: 1px;
+    margin-bottom: 10px;
+    color: gray;
 }
