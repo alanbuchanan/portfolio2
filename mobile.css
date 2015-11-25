@@ -3,15 +3,22 @@ img {
     border-radius: 50%;
 }
 
-.outer {
-    display: flex;
-    align-items: center;
-
-    justify-content: center;
+h1 {
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
+    /*margin-left: auto !important;*/
+    /*margin-right: auto !important;*/
 }
 
-h1 {
+.outer .md-display-4 {
     margin-bottom: 0;
+    text-align: center;
+}
+
+.outer .md-display-2 {
+
+    text-align: center;
 }
 
 .md-2-line div {
