@@ -6,10 +6,10 @@ $(document).ready(function () {
 
     $('ul').circleMenu({
         item_diameter: 100,
-        circle_radius: 400,
+        circle_radius: 250,
         direction: 'full',
-        speed: 2000,
-        delay: 2000,
+        speed: 1500,
+        delay: 5000,
         init: function () {
             // When page opens, hide link circles
             $('.circle').hide();
@@ -23,7 +23,7 @@ $(document).ready(function () {
             // Fade in light-coloured logo
             $('#dark').css('visibility', 'visible').fadeIn();
             // Change main image from light to dark
-            $('#main-image').attr("src", "http://i.imgur.com/yeKUURJ.png");
+            $('#main-image').attr("src", "http://i.imgur.com/75MVQFw.png");
 
             // Fade in link circles
             $('.circle').fadeIn();
@@ -38,7 +38,7 @@ $(document).ready(function () {
             // Hide light-coloured logo
             $('#dark').fadeOut();
             // Change main image from dark to light
-            $('#main-image').attr("src", "http://i.imgur.com/3J5tWR5.png");
+            $('#main-image').attr("src", "http://i.imgur.com/uxNvl8p.png");
 
             // Hide link circles
             $('.circle').fadeOut(1000);
@@ -46,22 +46,18 @@ $(document).ready(function () {
             // Turn background blue
             $('#bg').animate({'backgroundColor': niceBlue}, 800);
         }
+
     });
 
+    var zoom = '20';
 
-    //$('.container').hover(
-    //
-    //    function(){
-    //        $("#main-image").fadeOut(function() {
-    //            //$(this).load(function() { $(this).fadeIn(); });
-    //            $('.circle').fadeIn();
-    //            $('#bg').animate({'backgroundColor': '#000'},800);
-    //            $(this).attr("src", "http://i.imgur.com/3J5tWR5.png");
-    //        });
-    //    }
-    //
-    //
-    //);
-    //TODO: fix animations, make it look pretty
+    $('.circle').hover(function() {
+        $(this).animate({height: '+=' + zoom + '%', width: '+=' + zoom + '%'}, 100);
+    }, function() {
+        $(this).animate({height: '-=' + zoom + '%', width: '-=' + zoom + '%'}, 100);
+    });
+
+    //TODO: make images and link to appropriate sites
+    //TODO: buy site and upload to it
 });
 
