@@ -1,0 +1,23 @@
+img {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.outer {
+    display: flex;
+    align-items: center;
+
+    justify-content: center;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+.md-2-line div {
+    padding: 50px;
+}
+
+img {
+    margin-left: 20px;
+}
