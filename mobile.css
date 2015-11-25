@@ -28,3 +28,11 @@ h1 {
 img {
     margin-left: 20px;
 }
+
+.md-list-item-text h1 {
+    margin-bottom: 1px;
+}
+
+.md-headline {
+    margin-top: 1px;
+}
