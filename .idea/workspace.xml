@@ -4,6 +4,7 @@
     <list default="true" id="ed6a93a6-f77e-4de4-a025-424b0741b045" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/m.html" afterPath="$PROJECT_DIR$/m.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile.css" afterPath="$PROJECT_DIR$/mobile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile.js" afterPath="$PROJECT_DIR$/mobile.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolio2.iws" />
@@ -35,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mobile.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mobile.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mobile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.3505843">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -48,18 +49,18 @@
       <file leaf-file-name="m.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/m.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.125">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="37" />
+            <state vertical-scroll-proportion="-11.25">
+              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mobile.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mobile.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mobile.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7245409">
-              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="15" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -83,9 +84,9 @@
         <option value="$PROJECT_DIR$/script.js" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/mobile.js" />
         <option value="$PROJECT_DIR$/m.html" />
         <option value="$PROJECT_DIR$/mobile.css" />
+        <option value="$PROJECT_DIR$/mobile.js" />
       </list>
     </option>
   </component>
@@ -233,7 +234,13 @@
       <option name="project" value="LOCAL" />
       <updated>1448494080650</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="improved colouring, spacing, formatting">
+      <created>1448494573002</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1448494573002</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -281,7 +288,8 @@
     <MESSAGE value="made mobile site" />
     <MESSAGE value="improved centerting of headings" />
     <MESSAGE value="improved spacing in descs/titles" />
-    <option name="LAST_COMMIT_MESSAGE" value="improved spacing in descs/titles" />
+    <MESSAGE value="improved colouring, spacing, formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="improved colouring, spacing, formatting" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -330,14 +338,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.5">
@@ -348,16 +348,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/m.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.125">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="37" />
+        <state vertical-scroll-proportion="-11.25">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mobile.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7245409">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="15" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3505843">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding />
         </state>
       </provider>
